@@ -20,7 +20,7 @@
 <!-- Add your social media links here -->
 
 ## 📈 Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=bckflpboys&theme=github)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bckflpboys&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 ⭐️ From [bckflpboys](https://github.com/bckflpboys)
