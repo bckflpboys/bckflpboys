@@ -1,14 +1,21 @@
-# Hi there 👋, I'm @bckflpboys
+# <div align="center">Hi there 👋, I'm @bckflpboys
 
 ## About Me
+<div align="center">
 🚀 Welcome to my GitHub profile! I'm passionate about coding and creating amazing things.
+</div>
 
 ## 📊 GitHub Stats
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bckflpboys&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bckflpboys&layout=compact&theme=radical)
+</div>
 
 ## 🛠️ Technologies & Tools
+<div align="center">
+
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -28,15 +35,25 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Auth.js](https://img.shields.io/badge/Auth.js-000000?style=for-the-badge&logo=auth0&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white)
+</div>
 
 ## 🌟 Featured Projects
+<div align="center">
 <!-- You can add your featured projects here -->
+</div>
 
 ## 📫 How to reach me
+<div align="center">
 <!-- Add your social media links here -->
+</div>
 
 ## 📈 Activity Graph
+<div align="center">
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bckflpboys&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
 ---
+<div align="center">
 ⭐️ From [bckflpboys](https://github.com/bckflpboys)
+</div>
